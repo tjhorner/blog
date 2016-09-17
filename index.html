@@ -1,0 +1,24 @@
+---
+layout: default
+---
+<div class="home">
+  <h1 class="page-heading">Posts</h1>
+
+  <div class="post-list">
+    {% for post in site.posts %}
+      <div class="post-card">
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
+
+        <p class="post-meta"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time>{% if post.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ post.author }}</span></span>{% endif %}</p>
+
+        <div class="post-summary">
+          {{ post.summary }}
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+
+  <p>
+    And that's about it for now.
+  </p>
+</div>
