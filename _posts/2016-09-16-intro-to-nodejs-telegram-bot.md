@@ -25,8 +25,8 @@ You should have already done this before the event, but it’s a pretty small do
 if you still need to get it. Here are links to the version of Node.js we will be
 using for this workshop:
 
-- **Windows**: https://nodejs.org/dist/v6.6.0/node-v6.6.0-x64.msi
-- **macOS**: https://nodejs.org/dist/v6.6.0/node-v6.6.0.pkg
+- **Windows**: [https://nodejs.org/dist/v6.6.0/node-v6.6.0-x64.msi](https://nodejs.org/dist/v6.6.0/node-v6.6.0-x64.msi)
+- **macOS**: [https://nodejs.org/dist/v6.6.0/node-v6.6.0.pkg](https://nodejs.org/dist/v6.6.0/node-v6.6.0.pkg)
 - **Linux**: You should already know how to get Node.js.
 
 ### Step 0.2: Get Telegram
