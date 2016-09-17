@@ -291,3 +291,10 @@ calculators(?)… anything, really. Go check out the docs and see what you can b
 https://core.telegram.org/bots/api
 
 **And remember, have fun!**
+
+### Source
+
+The complete source of the code used in this article is available on GitHub here:
+[https://github.com/tjhorner/telegram-bot-example](https://github.com/tjhorner/telegram-bot-example)
+
+Feel free to use it however you'd like, except for world domination.
