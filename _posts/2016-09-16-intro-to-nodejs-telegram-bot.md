@@ -7,7 +7,8 @@ permalink: /post/intro-to-node-telegram-bot
 ---
 
 In this workshop, we will create a simple Telegram bot that tells us how long
-until CodeDay ends using Node.js, the Telegram API, and the Clear API.
+until CodeDay ends using Node.js, the [Telegram API](https://core.telegram.org/bots/api),
+and the [Clear API](http://docs.clear.codeday.org/).
 
 _This post is intended to serve as a guide for my CodeDay workshop, but if you’d
 like to use this to make your own Telegram bot with Node.js, go right ahead :)_
@@ -295,7 +296,7 @@ So what we’re doing here is…
 Now that you know the basics of bot creation, I encourage you to play around with
 Telegram’s bot API and make something awesome with it! You can make games, tools,
 calculators(?)… anything, really. Go check out the docs and see what you can build!
-https://core.telegram.org/bots/api
+[Telegram Bot API Manual](https://core.telegram.org/bots/api)
 
 **And remember, have fun!**
 
