@@ -174,6 +174,7 @@ h1, h2, h3, h4, h5, h6 {
     img{
       margin: 0 auto;
       display: block;
+      max-width: 100%;
     }
 
     blockquote{
@@ -186,6 +187,59 @@ h1, h2, h3, h4, h5, h6 {
 
     pre{
       overflow-x: scroll;
+    }
+  }
+
+  .post-share{
+    padding: 10px 0;
+    border-top: $separator;
+
+    h2{
+      margin-top: 0;
+      margin-bottom: 7px;
+    }
+
+    * {
+      vertical-align: top;
+    }
+
+    .telegram-share{
+      position: relative;
+      display: inline-block;
+      height: 20px;
+      padding: 1px 8px 1px 6px;
+      font-weight: 500;
+      color: #fff;
+      cursor: pointer;
+      background-color: #0088cc;
+      border-radius: 3px;
+      box-sizing: border-box;
+      text-decoration: none;
+      font-size: 11px;
+
+      span{
+        display: inline-block;
+        margin-top: 3px;
+      }
+
+      i{
+        display: inline-block;
+        height: 20px;
+        vertical-align: top;
+        width: 12px;
+        background-repeat: no-repeat;
+        background-position-y: 4px;
+        background-size: 10px;
+        background-image: url(/assets/telegram-plane.png);
+      }
+
+      &:hover{
+        background-color: #007dbb;
+      }
+
+      &:active{
+        background-color: #026698;
+      }
     }
   }
 }

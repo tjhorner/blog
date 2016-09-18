@@ -17,7 +17,7 @@ title: "@tjhorner"
 email: me@tjhorner.com
 description: Programming, security, other ramblings
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://blog.horner.tj" # the base hostname & protocol for your site
+# url: # "https://blog.horner.tj" # the base hostname & protocol for your site
 twitter_username: tjhorner
 github_username: tjhorner
 sass_dir: css
