@@ -12,6 +12,13 @@ until CodeDay ends using Node.js, the Telegram API, and the Clear API.
 _This post is intended to serve as a guide for my CodeDay workshop, but if you’d
 like to use this to make your own Telegram bot with Node.js, go right ahead :)_
 
+This article is split into parts. If you'd like to jump to a certain part, use
+these links:
+
+- [Part I: Chat bot](#part-i-chat-bot)
+- [Part II: Inline bot](#part-ii-inline-bot)
+- [Part III: Conclusion](#part-iii-conclusion)
+
 # Part I: Chat bot
 
 Telegram has two types of bots: chat bots and inline bots. Chat bots use commands
