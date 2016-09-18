@@ -299,6 +299,14 @@ https://core.telegram.org/bots/api
 
 **And remember, have fun!**
 
+### Feedback
+
+As this is my first workshop/guide post, I'd like to get feedback on it so I can
+improve in the future. If you could fill out this form, that would be awesome!
+Thanks in advance.
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSchjl-liXpOY-HewyM2DmcVD4S55jYRNuiYyjMjtuGLhui8Tg/viewform?embedded=true" width="900" height="1099" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
 ### Source
 
 The complete source of the code used in this article is available on GitHub here:
