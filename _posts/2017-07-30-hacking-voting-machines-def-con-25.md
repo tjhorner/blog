@@ -2,7 +2,7 @@
 title: "Hacking Voting Machines at DEF CON 25"
 layout: post
 author: TJ Horner
-summary: "Let's rig some elections"
+summary: "Let's rig some elections."
 permalink: /post/hacking-voting-machines-def-con-25
 cover: assets/voting-village/cover.jpg
 ---
