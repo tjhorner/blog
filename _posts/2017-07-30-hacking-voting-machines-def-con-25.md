@@ -74,6 +74,8 @@ When starting the ExpressPoll software, it looks for a file called `PollData.db3
   - For example, the attacker could forge their own database with fake voter information (e.g. change their parties/signatures, etc.) and place it into the machine when they register to vote.
 - Other attacks. Your imagination is the limit when you have access to the entire database.
 
+![](/assets/voting-village/voter-data.jpg)
+
 ## 2 Open USB Ports
 
 These pose less of a threat, but it is still threatening. An attacker could plug any USB device they wanted (for example, a USB Rubber Ducky or LAN Turtle) to launch a creative attack. I have tested this with my Bash Bunny by spamming the letter "a" infinitely into one of the text boxes in an attempt to trigger a buffer overflow and potentially crash the .NET app (it didn't work).
