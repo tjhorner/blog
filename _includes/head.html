@@ -2,6 +2,25 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <meta property="og:title" content="article"/>
+  <meta property="article:author" content="TJ Horner"/>
+
+  {% if page.title %}
+  <meta property="og:title" content="{{ page.title }}"/>
+  {% endif %}
+
+  {% if page.summary %}
+  <meta property="og:description" content="{{ page.summary }}"/>
+  {% endif %}
+
+  {% if page.cover %}
+  <meta property="og:image" content="https://blog.horner.tj/{{ page.cover }}"/>
+  {% endif %}
+
+  {% if page.permalink %}
+  <meta property="og:url" content="https://blog.horner.tj{{ page.permalink }}"/>
+  {% endif %}
 
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">

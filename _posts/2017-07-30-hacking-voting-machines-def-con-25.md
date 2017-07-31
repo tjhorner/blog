@@ -4,6 +4,7 @@ layout: post
 author: TJ Horner
 summary: "Let's rig some elections"
 permalink: /post/hacking-voting-machines-def-con-25
+cover: assets/voting-village/cover.jpg
 ---
 
 ![](/assets/voting-village/cover.jpg)
