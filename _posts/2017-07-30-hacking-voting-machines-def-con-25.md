@@ -111,7 +111,7 @@ DEF CON 25 was super fun, and this was definitely my favorite part. If you have 
 I couldn't have done this without the help of others that joined our team later on, they were super helpful:
 
 - Ian Smith
-- Sean Roach
+- Sean Roach ([@TheEdgyDev](https://twitter.com/TheEdgyDev))
 - Some others (lmk if you belong here, I'm not good with names)
 
 # Various Images
