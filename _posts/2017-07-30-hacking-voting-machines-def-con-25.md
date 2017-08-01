@@ -7,6 +7,8 @@ permalink: /post/hacking-voting-machines-def-con-25
 cover: assets/voting-village/cover.jpg
 ---
 
+**UPDATE JULY 31 2017:** Hard-coded username/password vuln added.
+
 ![](/assets/voting-village/cover.jpg)
 
 # Introduction
@@ -63,6 +65,17 @@ This vulnerability was confirmed by creating a random .NET `.resources` file, na
 # The Vulnerabilities
 
 Along with the exploits described above, we have found many security vulnerabilities that can enable several types of attacks.
+
+## Hard-coded Username/Password
+
+When you launch the ExpressPoll software, you are required to enter a precinct number, plus a username/password.
+
+There is one hard-coded into the software that always works:
+
+- Username: `1`
+- Password: `1111`
+
+Brilliant.
 
 ## Unencrypted SQLite3 Database
 
