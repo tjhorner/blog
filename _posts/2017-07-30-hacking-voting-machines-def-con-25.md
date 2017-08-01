@@ -68,7 +68,7 @@ Along with the exploits described above, we have found many security vulnerabili
 
 ## Hard-coded Username/Password
 
-When you launch the ExpressPoll software, you are required to enter a precinct number, plus a username/password.
+When you launch the ExpressPoll software, you are required to enter a consolidation number, plus a username/password.
 
 There is one hard-coded into the software that always works:
 
