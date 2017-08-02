@@ -9,6 +9,8 @@ cover: assets/voting-village/cover.jpg
 
 **UPDATE JULY 31 2017:** Hard-coded username/password vuln added.
 
+**UPDATE AUGUST 2 2017:** I just wanted to clarify to anyone reading this: I am **not commenting** on the likeliness that any recent election was "hacked" or "rigged" by anyone. The truth is we simply don't know. Anything could have happened during the election, so without hard evidence that the exploits listed below were used, there is **absolutely no way of knowing for sure.**
+
 ![](/assets/voting-village/cover.jpg)
 
 # Introduction
