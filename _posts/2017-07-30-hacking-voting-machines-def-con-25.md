@@ -133,4 +133,6 @@ I couldn't have done this without the help of others that joined our team later 
 
 # Various Images
 
-Some images that are relevant. (I'll post them later, I'm on 600Kbps wifi xd please help)
+Here are all of the images I took while hacking these machines: [Google Photos Album](https://goo.gl/photos/baSp4QDVYGABfMxV8)
+
+You are allowed to use these photos freely, so long as you credit me with my Twitter username (@tjhorner) and a link back to this blog post.
