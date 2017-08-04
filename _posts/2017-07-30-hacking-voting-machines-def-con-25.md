@@ -128,6 +128,7 @@ I couldn't have done this without the help of others that joined our team later 
 - Ian Smith
 - Morgan Jones
 - Thomas Fulmer
+- Yilen Pan
 - Sean Roach ([@TheEdgyDev](https://twitter.com/TheEdgyDev))
 - Some others (lmk if you belong here, I'm not good with names)
 
